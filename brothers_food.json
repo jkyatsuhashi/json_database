@@ -1,0 +1,252 @@
+[
+    {
+        "dish_name": "Brothers Breaded Pickles",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 10.25
+    },
+    {
+        "dish_name": "Gator Balls",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 14.75
+    },
+    {
+        "dish_name": "Half-Pound Boneless Chicken Wings",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.99
+    },
+    {
+        "dish_name": "Cheesehead Fries",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 11.25
+    },
+    {
+        "dish_name": "Chicken Cheese Nachos",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 13.75
+    },
+    {
+        "dish_name": "Churro Bites",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 9.25
+    },
+    {
+        "dish_name": "Bone-in Wings",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 14.99
+    },
+    {
+        "dish_name": "Grilled Chicken Quesadilla",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 11.50
+    },
+    {
+        "dish_name": "Chicken Tender Strips",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 11.25
+    },
+    {
+        "dish_name": "Wisconsin World Famous Cheese Curds",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 11.99
+    },
+    {
+        "dish_name": "Firecracker Fries",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 9.99
+    },
+    {
+        "dish_name": "Soft Pretzel Sticks",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 11.25
+    },
+    {
+        "dish_name": "Fresh Fried Tortilla Chips with Salsa",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 8.25
+    },
+    {
+        "dish_name": "Fresh Fried Tortilla Chips with Queso",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 8.75
+    },
+    {
+        "dish_name": "Deep Fried Oreo Cookies",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 9.25
+    },
+    {
+        "dish_name": "Brothers Appetizer Sampler",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 18.75
+    },
+    {
+        "dish_name": "Chop Chop Salad",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 10.00
+    },
+    {
+        "dish_name": "Granny Smith Apple Pecan Salad",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 10.75
+    },
+    {
+        "dish_name": "Socko-Taco Salad Veggie",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 10.00
+    },
+    {
+        "dish_name": "Nashville Hot Chicken Sandwich",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.50
+    },
+    {
+        "dish_name": "Grilled Chicken Sandwich",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 11.50
+    },
+    {
+        "dish_name": "Buffalo Chicken Sandwich",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.50
+    },
+    {
+        "dish_name": "French Dip",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 13.25
+    },
+    {
+        "dish_name": "Brothers Classic Chicken Sandwich",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 11.50
+    },
+    {
+        "dish_name": "Philly CheeseSteak Sandwich",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.99
+    },
+    {
+        "dish_name": "Southwestern Wrap",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.25
+    },
+    {
+        "dish_name": "Queso Chicken Wrap",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.25
+    },
+    {
+        "dish_name": "Chicken Ranch Wrap",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.25
+    },
+    {
+        "dish_name": "Buffalo Chicken Wrap",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.25
+    },
+    {
+        "dish_name": "Wisconsin Cheese Curd Burger",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 13.99
+    },
+    {
+        "dish_name": "The Over Achiever",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 16.99
+    },
+    {
+        "dish_name": "Jalapeno Popper Burger",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 13.00
+    },
+    {
+        "dish_name": "Impossible Burger",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 13.75
+    },
+    {
+        "dish_name": "Smokehouse Burger",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 13.75
+    },
+    {
+        "dish_name": "Quesadilla Burger",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.75
+    },
+    {
+        "dish_name": "Classic Bacon Cheeseburger",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.50
+    },
+    {
+        "dish_name": "Classic Cheeseburger",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 10.50
+    },
+    {
+        "dish_name": "Chicken Tinga Tacos",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 11.25
+    },
+    {
+        "dish_name": "Cajun Sriracha Fish Tacos",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.75
+    },
+    {
+        "dish_name": "Grilled Fish Tacos",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.75
+    },
+    {
+        "dish_name": "Five Cheese Mac 'n Cheese",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 12.00
+    },
+    {
+        "dish_name": "Chicken Fried Chicken 'N Gravy",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 13.75
+    },
+    {
+        "dish_name": "Buffalo Chicken Mac 'N Cheese",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 16.25
+    },
+    {
+        "dish_name": "Battered Cod Fish Fry",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 13.75
+    },
+    {
+        "dish_name": "Kids Cheeseburger",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 6.99
+    },
+    {
+        "dish_name": "Kids Cheese Quesadilla",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 6.50
+    },
+    {
+        "dish_name": "Kids Mac 'N Cheese",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 6.50
+    },
+    {
+        "dish_name": "Kids Mini Corndogs",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 6.99
+    },
+    {
+        "dish_name": "Kids Chicken Fingers",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 6.99
+    },
+    {
+        "dish_name": "Kids Cheese Pizza Sticks",
+        "fk_restaurant_name": "Brothers Bar & Grill",
+        "price": 6.50
+    }
+]
