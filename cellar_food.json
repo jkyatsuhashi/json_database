@@ -1,0 +1,122 @@
+[
+    {
+        "dish_name": "Bruschetta Board (2)",
+        "fk_restaurant_name": "The Cellar",
+        "price": 13
+    },
+    {
+        "dish_name": "Bruschetta Board (4)",
+        "fk_restaurant_name": "The Cellar",
+        "price": 22
+    },
+    {
+        "dish_name": "The Cellar Board",
+        "fk_restaurant_name": "The Cellar",
+        "price": 19
+    },
+    {
+        "dish_name": "Wine Tasting Board",
+        "fk_restaurant_name": "The Cellar",
+        "price": 12
+    },
+    {
+        "dish_name": "Mediterranean Board",
+        "fk_restaurant_name": "The Cellar",
+        "price": 13
+    },
+    {
+        "dish_name": "Avocado",
+        "fk_restaurant_name": "The Cellar",
+        "price": null
+    },
+    {
+        "dish_name": "Baked Bourbon Bacon Brie",
+        "fk_restaurant_name": "The Cellar",
+        "price": 14
+    },
+    {
+        "dish_name": "Brussel Sprouts",
+        "fk_restaurant_name": "The Cellar",
+        "price": 13
+    },
+    {
+        "dish_name": "Whipped Feta Cranberry Dip",
+        "fk_restaurant_name": "The Cellar",
+        "price": 10
+    },
+    {
+        "dish_name": "Truffle Patatas",
+        "fk_restaurant_name": "The Cellar",
+        "price": 13
+    },
+    {
+        "dish_name": "Meatballs",
+        "fk_restaurant_name": "The Cellar",
+        "price": 15
+    },
+    {
+        "dish_name": "Harter Height Caesar Salad",
+        "fk_restaurant_name": "The Cellar",
+        "price": 13
+    },
+    {
+        "dish_name": "Apple Fennel Salad",
+        "fk_restaurant_name": "The Cellar",
+        "price": 15
+    },
+    {
+        "dish_name": "Beet Salad",
+        "fk_restaurant_name": "The Cellar",
+        "price": 15
+    },
+    {
+        "dish_name": "Barbeque Chicken Flatbread",
+        "fk_restaurant_name": "The Cellar",
+        "price": 14
+    },
+    {
+        "dish_name": "Big Poppa Flatbread",
+        "fk_restaurant_name": "The Cellar",
+        "price": 15
+    },
+    {
+        "dish_name": "Hawaiian Flatbread",
+        "fk_restaurant_name": "The Cellar",
+        "price": 15
+    },
+    {
+        "dish_name": "Margherita Flatbread",
+        "fk_restaurant_name": "The Cellar",
+        "price": 14
+    },
+    {
+        "dish_name": "Veggie Flatbread",
+        "fk_restaurant_name": "The Cellar",
+        "price": 14
+    },
+    {
+        "dish_name": "Turkey Jam Sandwich",
+        "fk_restaurant_name": "The Cellar",
+        "price": 14
+    },
+    {
+        "dish_name": "California Turkey Club",
+        "fk_restaurant_name": "The Cellar",
+        "price": 14
+    },
+    {
+        "dish_name": "Pulled Pork Sandwich",
+        "fk_restaurant_name": "The Cellar",
+        "price": 14
+    },
+    {
+        "dish_name": "Pesto Chicken Panini",
+        "fk_restaurant_name": "The Cellar",
+        "price": 14
+    },
+    {
+        "dish_name": "Shwarma Sandwich",
+        "fk_restaurant_name": "The Cellar",
+        "price": 15
+    }
+]

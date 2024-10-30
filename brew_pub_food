@@ -1,0 +1,72 @@
+[
+    {
+        "dish_name": "Touchdown Cheezus",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": null
+    },
+    {
+        "dish_name": "Pretzel",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": null
+    },
+    {
+        "dish_name": "Chips & Salsa",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": null
+    },
+    {
+        "dish_name": "Hummus of the Moment",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": null
+    },
+    {
+        "dish_name": "Buffalo Cauliflower Wrap",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": 13
+    },
+    {
+        "dish_name": "Pub Chips",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": null
+    },
+    {
+        "dish_name": "Buff ‘n’ Bleu Salad",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": null
+    },
+    {
+        "dish_name": "Chicken Bacon Ranch Wrap",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": 14
+    },
+    {
+        "dish_name": "Just the Mac",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": null
+    },
+    {
+        "dish_name": "Vegan Variety",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": 7
+    },
+    {
+        "dish_name": "Zucchini Noodles",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": 1
+    },
+    {
+        "dish_name": "Chicken",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": null
+    },
+    {
+        "dish_name": "White Onion & Price",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": null
+    },
+    {
+        "dish_name": "Fastini Potatoes and Bacon",
+        "fk_restaurant_name": "Home Brewery Brewpub",
+        "price": null
+    }
+]

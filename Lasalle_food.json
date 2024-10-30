@@ -1,0 +1,153 @@
+[
+    {
+      "dish_name": "Duck Poutine",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 14
+    },
+    {
+      "dish_name": "Fried Brussels Sprouts",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 12
+    },
+    {
+      "dish_name": "Chicken & Sausage Gumbo",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 13
+    },
+    {
+      "dish_name": "Caesar Salad",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 12
+    },
+    {
+      "dish_name": "Deep Fried Pretzels",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 10
+    },
+    {
+      "dish_name": "Tavern Classic Burger",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 17
+    },
+    {
+      "dish_name": "Steak Sandwich",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 20
+    },
+    {
+      "dish_name": "Chicken Sandwich",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 18
+    },
+    {
+      "dish_name": "Chris's Grilled Cheese",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 15
+    },
+    {
+      "dish_name": "Quesadilla",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 16
+    },
+    {
+      "dish_name": "Duck Tacos",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 18
+    },
+    {
+      "dish_name": "When I First Made 100 Grand",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 15
+    },
+    {
+      "dish_name": "Island Mule",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 11
+    },
+    {
+      "dish_name": "Heat of the Moment",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 12
+    },
+    {
+      "dish_name": "Spice Girls Punch",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 12
+    },
+    {
+      "dish_name": "The First Blurb",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 13
+    },
+    {
+      "dish_name": "Irish Road",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 13
+    },
+    {
+      "dish_name": "Purple Collins",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 12
+    },
+    {
+      "dish_name": "Falling for Summer",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 10
+    },
+    {
+      "dish_name": "German Chocolate Cake",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": 12
+    },
+    {
+      "dish_name": "Franciscan Chardonnay",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": "10/40"
+    },
+    {
+      "dish_name": "Vigneti Del Sol Pinot Grigio",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": "8/40"
+    },
+    {
+      "dish_name": "Chasing Venus Sauvignon Blanc",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": "8/40"
+    },
+    {
+      "dish_name": "Essence Riesling",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": "10/40"
+    },
+    {
+      "dish_name": "D’Altieri Moscato",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": "10/40"
+    },
+    {
+      "dish_name": "Sokol Blosser Rosé",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": "10/40"
+    },
+    {
+      "dish_name": "Bonanza Cabernet Sauvignon",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": "10/40"
+    },
+    {
+      "dish_name": "Sea Sun Pinot Noir",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": "8/40"
+    },
+    {
+      "dish_name": "Los Cardos Malbec",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": "10/40"
+    },
+    {
+      "dish_name": "Silk & Spice Red Blend",
+      "fk_restaurant_name": "LaSalle Kitchen & Tavern",
+      "price": "10/40"
+    }
+  ]
+  

@@ -1,0 +1,68 @@
+[
+    {
+      "dish_name": "Double Cheeseburger",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 9
+    },
+    {
+      "dish_name": "Saucy Strips Special",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 8
+    },
+    {
+      "dish_name": "Wing Special",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 0.99
+    },
+    {
+      "dish_name": "Pretzels with Beer Cheese",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 7.49
+    },
+    {
+      "dish_name": "Spicy Cheese Sticks",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 7.49
+    },
+    {
+      "dish_name": "Ranch Flavor Cheese Curds",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 7.49
+    },
+    {
+      "dish_name": "Fried Chicken Dinner (3 Pieces, Dark)",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 6
+    },
+    {
+      "dish_name": "Fried Chicken Dinner (3 Pieces, White)",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 6.50
+    },
+    {
+      "dish_name": "Jamaican Jerk Chicken Dinner (3 Pieces, Dark)",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 7
+    },
+    {
+      "dish_name": "Jamaican Jerk Chicken Dinner (3 Pieces, White)",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 7.50
+    },
+    {
+      "dish_name": "Blackened Salmon Dinner",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 13.99
+    },
+    {
+      "dish_name": "16 oz. Frozen Margaritas",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 8
+    },
+    {
+      "dish_name": "Aluminum Bottle Beers",
+      "fk_restaurant_name": "Linden Grill",
+      "price": 2
+    }
+  ]
+  
